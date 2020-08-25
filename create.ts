@@ -1,7 +1,7 @@
-function create(...args: unknown[]): Array<number> {
-	let result: number[] = [];
+function create(...args: unknown[]): Array<unknown> {
+	let result: unknown[] = [];
 
-	args.forEach((item: number) => {
+	args.forEach((item: unknown) => {
 		result.push(item);
 	});
 
