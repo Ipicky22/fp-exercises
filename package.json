@@ -1,0 +1,23 @@
+{
+	"name": "fp-exercises",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ipicky22/fp-exercises.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ipicky22/fp-exercises/issues"
+	},
+	"homepage": "https://github.com/Ipicky22/fp-exercises#readme",
+	"dependencies": {
+		"ts-node": "^9.0.0",
+		"typescript": "^4.0.2"
+	}
+}
